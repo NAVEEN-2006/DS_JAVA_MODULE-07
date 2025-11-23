@@ -17,8 +17,8 @@ If there is no cycle, the program should return null without modifying the linke
 
 ## Program:
 ```
-Developed by: KIRAN G
-RegisterNumber:  212223040095
+Developed by: NAVEEN KUMAR S
+RegisterNumber:  212223040129
 ```
 ```
 class Node {
