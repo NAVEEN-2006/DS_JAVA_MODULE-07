@@ -26,8 +26,8 @@ Display the rotated linked list.
 
 ## Program:
 ```
-Developed by: KIRAN G
-RegisterNumber:  212223040095
+Developed by: NAVEEN KUMAR S
+RegisterNumber:  212223040129
 ```
 ```
 import java.util.Scanner;
